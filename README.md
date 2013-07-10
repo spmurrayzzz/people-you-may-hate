@@ -7,3 +7,5 @@ Don't you find it exceedingly frustrating to constantly see people in Facebook's
 Well I certainly do, so I made this extension. Nothing magical going on here, just hides that pane when you load the page.
 
 Cheers.
+
+[Chrome Webstore link](https://chrome.google.com/webstore/detail/people-you-may-hate/ealbjmljjpkhiiafmopfhbfedogodaii/)
