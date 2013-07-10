@@ -1,6 +1,6 @@
 {
   "name": "People You May Hate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 2,
   "description": "Auto-hides Facebook's uber-annoying 'People You May Know' pane.",
   "homepage_url": "http://spmurraydev.com",
