@@ -17,9 +17,6 @@
         "http://www.facebook.com/*",
         "https://www.facebook.com/*"
       ],
-      "js": [
-        "src/inject/inject.js"
-      ],
       "css": [
         "src/inject/inject.css"
       ]
